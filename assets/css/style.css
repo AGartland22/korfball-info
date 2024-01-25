@@ -71,6 +71,22 @@ footer {
     background-color: #004052;
 }
 
+footer a {
+    color: #ffffff;
+}
+
+#social-links {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+#social-links i {
+    font-size: 200%;
+    padding: 5%;
+}
+
 /* Push main content down to allow for larger header on smaller screens */
 @media screen and (max-width: 454px) {
     main {
@@ -82,10 +98,10 @@ footer {
 @media screen and (min-width: 786px) {
     /* Header */
     header {   
-
         text-align: center;
         display: flex;
-        position: relative;
+        /*Fix header text spacing*/
+        justify-content: space-evenly;
     }
     
     #menu {
