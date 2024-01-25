@@ -39,6 +39,11 @@ h1 {
     color: #ffffff;
 }
 
+header a {
+    color: yellow;
+    text-decoration: none;
+}
+
 #menu {
     font-size: 105%;
     letter-spacing: 5px;
@@ -48,14 +53,11 @@ h1 {
     margin-bottom: 10px;
 }
 
-.link {
+.active {
     border-bottom: 1px solid yellow;
 }
 
-header a {
-    color: yellow;
-    text-decoration: none;
-}
+
 
 
 /* Main */
