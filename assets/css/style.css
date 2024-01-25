@@ -44,7 +44,7 @@ h1 {
     letter-spacing: 5px;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 10px;
 }
 
@@ -57,15 +57,55 @@ header a {
     text-decoration: none;
 }
 
-    
+
 /* Main */
 main {
     background-color: #002029;
     /* Allow main element to take up surplus space */
     flex: 1 0 auto;
+    margin-top: 175px
 }
 
 /* Footer */
 footer {
     background-color: #004052;
+}
+
+/* Push main content down to allow for larger header on smaller screens */
+@media screen and (max-width: 454px) {
+    main {
+        margin-top: 233px;
+    }
+}
+
+/*Media Querey tablets and larger (768px and up) */
+@media screen and (min-width: 786px) {
+    /* Header */
+    header {   
+
+        text-align: center;
+        display: flex;
+        position: relative;
+    }
+    
+    #menu {
+        display: flex;
+        position: relative;
+    }
+
+    #menu > li {
+        padding-left: 2rem;
+        text-align: center;
+    }
+
+    main {
+        margin-top: 0px; 
+    }
+}
+
+/* Media querey for Large devices (992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #ffffff;
+    }
 }
