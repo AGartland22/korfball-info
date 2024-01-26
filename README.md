@@ -13,11 +13,9 @@ Target Audience:
 - Users who have heard of Korfball but want further information, i.e rules clarifications and how to play.
 - Users who want to find a Korfball club local to them.
 
-Wireframes:
-
-Mobile Wireframes:
-
 Color Scheme:
+
+
 
 ## Features of All Pages
 
