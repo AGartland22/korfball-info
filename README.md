@@ -14,6 +14,7 @@ Target Audience:
 
 ## Color Scheme:
 
+assets/images/contrast-grid.png
 Header
 
 Hero image
