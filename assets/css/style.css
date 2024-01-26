@@ -159,6 +159,12 @@ footer a {
     main {
         margin-top: 0px; 
     }
+
+    /* Gallery */
+    #photos {
+        column-count: 3;
+        column-gap: 0;
+    }
 }
 
 /* Media querey for Large devices (992px and up) */
@@ -166,4 +172,9 @@ footer a {
     #menu a:hover {
         border-bottom: 1px solid #ffffff;
     }
+
+        #photos {
+            column-count: 3;
+            column-gap: 0;
+        }
 }
