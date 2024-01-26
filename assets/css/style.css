@@ -76,7 +76,7 @@ hr {
 #hero {
     height: 700px;
     width: 100%;
-    background: url("../images/hero-image-resize.webp") no-repeat center center/cover;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 
 #about-korf {
