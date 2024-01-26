@@ -1,6 +1,7 @@
 # Korfball - The Best Sport You've Never Heard Of
 
 ## Site Overview
+Korfball is a Dutch sport with similarities to both Basketball and Netball. It is popular at university as a social and welcoming sport, and people who began playing at university often keep playing long after they graduate. The purpose of this website is to provide information to users about Korfball and to encourage them to sign up.
 
 ## Table of Contents
 
