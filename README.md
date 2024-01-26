@@ -14,12 +14,6 @@ Target Audience:
 
 ## Color Scheme:
 
-![Contrast Grid] (assets/images/contrast-grid.png)
-
-Initially, the colour scheme was to be based around dark blue and canary yellow to mimic the colours of a korfball ball. However, upon implementation this was found to be too bright and became unpleasant to look at. In order to improve User Experience (UX), a more muted colour scheme was chosen.
-
-## Features of All Pages
-
 Header
 
 Hero image
