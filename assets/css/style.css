@@ -84,6 +84,20 @@ hr {
     margin: 20px auto;
 }
 
+#korfball-ball {
+    background: url(../images/korfball-ball.webp) no-repeat top center /cover;
+    height: 90vh;
+    width: 90vw;
+    max-height: 250px;
+    max-width: 250px;
+}
+
+#ball-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Footer */
 footer {
     background-color: #004052;
