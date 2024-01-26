@@ -14,7 +14,8 @@ Target Audience:
 
 ## Color Scheme:
 
-!screenshot (/assets/images/contrast-grid.png)
+![image](https://github.com/AGartland22/korfball-info/assets/96433928/3bf664df-2cc2-4acd-9c4f-e05c949d257e)
+
 
 Initially, the colour scheme was to be based around dark blue and canary yellow to mimic the colours of a korfball ball. However, upon implementation this was found to be too bright and became unpleasant to look at. In order to improve User Experience (UX), a more muted colour scheme was chosen.
 
