@@ -61,7 +61,7 @@ All internal links work correctly. All external links open in a new tab. I used 
 
 ## Deployment
 
-I delpoyed the page on GitHub as standard for Project Portfolio subsmissions.
+I delpoyed the site on GitHub.
 
 ## Credits
 
